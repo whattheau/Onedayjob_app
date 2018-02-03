@@ -129,7 +129,7 @@ public class Page_Menu extends Activity {
 
 
 
-        String url = "http://thaiprojectapp.com/kaiau/app_get_user_id.php";
+        String url = "http://thaiprojectapp.com/kaiau/json_code/app_get_user_id.php";
 
 
         List<NameValuePair> params = new ArrayList<NameValuePair>();

@@ -61,7 +61,7 @@ public class Login extends Activity {
             public void onClick(View v) {
 
 
-                String url = "http://thaiprojectapp.com/kaiau/app_login.php";
+                String url = "http://thaiprojectapp.com/kaiau/json_code/app_login.php";
 
                 List<NameValuePair> params = new ArrayList<NameValuePair>();
                 params.add(new BasicNameValuePair("strUser", txtUser.getText().toString()));
